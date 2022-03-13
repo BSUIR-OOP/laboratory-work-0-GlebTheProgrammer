@@ -1,0 +1,8 @@
+C:\Users\Gleb\Desktop\For Git\OOP_Laba_1\OOP_Laboratory_Work_1\MyInheritanceProject\bin\Debug\MyInheritanceProject.exe.config
+C:\Users\Gleb\Desktop\For Git\OOP_Laba_1\OOP_Laboratory_Work_1\MyInheritanceProject\bin\Debug\MyInheritanceProject.exe
+C:\Users\Gleb\Desktop\For Git\OOP_Laba_1\OOP_Laboratory_Work_1\MyInheritanceProject\bin\Debug\MyInheritanceProject.pdb
+C:\Users\Gleb\Desktop\For Git\OOP_Laba_1\OOP_Laboratory_Work_1\MyInheritanceProject\obj\Debug\MyInheritanceProject.csproj.AssemblyReference.cache
+C:\Users\Gleb\Desktop\For Git\OOP_Laba_1\OOP_Laboratory_Work_1\MyInheritanceProject\obj\Debug\MyInheritanceProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gleb\Desktop\For Git\OOP_Laba_1\OOP_Laboratory_Work_1\MyInheritanceProject\obj\Debug\MyInheritanceProject.csproj.CoreCompileInputs.cache
+C:\Users\Gleb\Desktop\For Git\OOP_Laba_1\OOP_Laboratory_Work_1\MyInheritanceProject\obj\Debug\MyInheritanceProject.exe
+C:\Users\Gleb\Desktop\For Git\OOP_Laba_1\OOP_Laboratory_Work_1\MyInheritanceProject\obj\Debug\MyInheritanceProject.pdb
