@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MyInheritanceProject.Models.Circle">
+    <Position X="14.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFAQAAAAA=</HashCode>
+      <FileName>Models\Circle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyInheritanceProject.Models.Cube">
+    <Position X="4.75" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAIEAAAAAAA=</HashCode>
+      <FileName>Models\Cube.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyInheritanceProject.Models.Cylinder">
+    <Position X="14.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAIEAAAAAAA=</HashCode>
+      <FileName>Models\Cylinder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyInheritanceProject.Models.LineSegment">
+    <Position X="7" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Models\LineSegment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyInheritanceProject.Models.Rectangle">
+    <Position X="7" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAEAAAAAAAAAAAAAEAQAAAAA=</HashCode>
+      <FileName>Models\Rectangle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyInheritanceProject.Models.Rhombus">
+    <Position X="9.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAEAQAAAAA=</HashCode>
+      <FileName>Models\Rhombus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyInheritanceProject.Models.Square">
+    <Position X="4.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAEAAAAAAAAAAAAAEAQAAAAA=</HashCode>
+      <FileName>Models\Square.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyInheritanceProject.Models.Triangle">
+    <Position X="11.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAQAAAAAAAAAAAAAAAACAAABAAAAEAQAAAAA=</HashCode>
+      <FileName>Models\Triangle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyInheritanceProject.Models.Cone">
+    <Position X="16.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAIEAAAAAAA=</HashCode>
+      <FileName>Models\Cone.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyInheritanceProject.Models.TrianglePrism">
+    <Position X="11.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAIEAAAAAAA=</HashCode>
+      <FileName>Models\TrianglePrism.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyInheritanceProject.Models.Figure">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Models\Figure.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
